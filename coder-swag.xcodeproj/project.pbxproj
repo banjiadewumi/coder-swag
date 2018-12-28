@@ -16,6 +16,7 @@
 		31556AD321D1EFCE00E6D596 /* ProductCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31556AD221D1EFCE00E6D596 /* ProductCell.swift */; };
 		315728C721D076CE003D42FF /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 315728C621D076CE003D42FF /* Category.swift */; };
 		315728CA21D078CD003D42FF /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 315728C921D078CD003D42FF /* DataService.swift */; };
+		31695BD821D5EA0300B5F3A0 /* ProductsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 31695BD721D5EA0300B5F3A0 /* ProductsVC.swift */; };
 		316D1BCE21D48A4100EB2F0B /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 316D1BCD21D48A4100EB2F0B /* Product.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 		31556AD221D1EFCE00E6D596 /* ProductCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCell.swift; sourceTree = "<group>"; };
 		315728C621D076CE003D42FF /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
 		315728C921D078CD003D42FF /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		31695BD721D5EA0300B5F3A0 /* ProductsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductsVC.swift; sourceTree = "<group>"; };
 		316D1BCD21D48A4100EB2F0B /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				3125CD9C21CB6F99001407D5 /* CategoriesVC.swift */,
+				31695BD721D5EA0300B5F3A0 /* ProductsVC.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				3125CDB021CB7C72001407D5 /* CategoryCell.swift in Sources */,
 				31556AD321D1EFCE00E6D596 /* ProductCell.swift in Sources */,
 				315728C721D076CE003D42FF /* Category.swift in Sources */,
+				31695BD821D5EA0300B5F3A0 /* ProductsVC.swift in Sources */,
 				315728CA21D078CD003D42FF /* DataService.swift in Sources */,
 				316D1BCE21D48A4100EB2F0B /* Product.swift in Sources */,
 			);
